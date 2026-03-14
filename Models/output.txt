@@ -1,0 +1,17 @@
+Environment OK
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 2s 2s/step
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 2s 2s/step
+
+================ FINAL DIAGNOSTICS =================
+Status: CRITICAL
+Detected Fault (RF): OVERHEAT
+LSTM Risk Score: 0.0
+Anomaly Score: 0.00107
+Anomaly Threshold: 0.005663
+Suggested Action:
+Stop vehicle and inspect battery immediately
+===================================================
